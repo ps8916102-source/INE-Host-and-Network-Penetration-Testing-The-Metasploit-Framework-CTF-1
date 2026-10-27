@@ -1,6 +1,6 @@
 # INE Host & Network Penetration Testing: The Metasploit Framework CTF 1
 
-## Overview
+## Overview 
 
 This repository documents my learning process while completing the **Host & Network Penetration Testing: The Metasploit Framework CTF 1** lab on INE.
 
